@@ -1,0 +1,14 @@
+Project: USDTRYForecast
+Version: 1.0.0
+Description: USD/TRY Exchange Rate Forecasting Model
+
+A comprehensive machine learning forecasting system for USD/TRY 
+(US Dollar to Turkish Lira) exchange rates using multiple models.
+
+Features:
+- Multiple ML Models (Linear Regression, Random Forest, LSTM, ARIMA)
+- Forecast horizons: 3 months, 6 months, 1 year
+- 10 years of historical data
+- Comprehensive feature engineering
+- Performance metrics and visualizations
+
